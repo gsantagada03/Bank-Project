@@ -1,0 +1,159 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: #1A1A1A;
+}
+
+
+
+#immagine1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 59%;
+	margin-top: -10px;
+}
+
+#title1 {
+	color: white;
+	position: absolute;
+	top: 6%;
+	left: 45%;
+	font-size: 2vw;
+
+}
+
+#title2 {
+	color: grey;
+	position: absolute;
+	top: 11%;
+	left: 45%;
+	font-size: 1.5vw;
+
+}
+
+.navbar ul {
+	list-style-type: none;
+	background-color: black;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	margin-left: 20.5%;
+	margin-right: 20.5%;
+
+}
+
+.navbar a {
+	color: grey;
+	text-decoration: none;
+	padding: 11.55px;
+	display: block;
+	text-align: center;
+	border: 1px solid #383838;
+}
+
+.navbar li {
+	float: left;
+}
+
+#div2 {
+	display: flex;
+}
+
+#div2 div {
+	background-color: #0D0D0D;
+}
+
+#divresults {
+	width: 19.7%;
+	margin-left: 20.5%;
+}
+
+
+
+#results {
+	color: white;
+	float: right;
+	padding-right: 33%;
+	padding-top: 10px;
+}
+
+#resultsimg {
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+.resultsp {
+	color: grey;
+	padding-left: 15px;
+}
+
+#divopportunities {
+	width: 19.7%;
+}
+
+#opportunitiesimg {
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+#opportunities {
+	color: white;
+	float: right;
+	padding-top: 10px;
+	padding-right: 20%;
+}
+
+.opportunitiesp {
+	color: grey;
+	padding-left: 15px;
+	margin-top: 10px;
+}
+
+#divsolutions {
+	width: 19.7%;
+}
+
+#solutionsimg {
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+#solutions {
+	color: white;
+	float: right;
+	padding-top: 10px;
+	padding-right: 32%;
+}
+
+.solutionsp {
+	color: grey;
+	padding-left: 15px;
+	margin-top: 14px;
+}
+
+#div2form {
+	background-color: white;
+	margin-top: -20px;
+	margin-right: 20.5%;
+	margin-left: 20.5%;
+	padding-bottom: 3%;
+}
+
+#formTitle {
+	text-align: center;
+}
+
+#regForm {
+	margin-top: 5%;
+	text-align: center;
+}
+
+label {
+	display: inline-block;
+	width: 120px;
+}
+
+input {
+	width: 150px;
+}
