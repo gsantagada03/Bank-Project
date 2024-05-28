@@ -1,0 +1,1 @@
+Applicativo bancario in cui l'utente può creare un conto e gestire le seguenti operazioni : visionare il proprio bilancio e le transazioni effettuate e ricevute, depositare, trasferire e ricevere denaro e chiudere il conto bancario. Tecnologie utilizzate per lo sviluppo del progetto : Java, Spring Boot, MySQL(back-end), HTML, CSS e JavScript (front-end).
